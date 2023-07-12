@@ -3,8 +3,8 @@
 
 Wishlit is a super cool to add your bucket list, and have stored for a life time.
 
-##Appearance
-![scrnshot](./photo/sunflower.jpg)
+# Appearance
+![scrnshot](./photo/screnshot.png)
 
 
 ## Tech Stack
@@ -23,5 +23,4 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 
 ## Live Link
 
-https://makewishlist.netlify.app/
-
+https://wishlistit.netlify.app/
